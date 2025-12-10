@@ -1,0 +1,1 @@
+Completed hands-on Python and data-focused coursework involving data cleaning, basic modeling, and analysis using Pandas, NumPy, and TensorFlow. These assignments were completed as part of class learning and are not personal projects.
